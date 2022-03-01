@@ -11,7 +11,7 @@ chardet
 cliapp
 Click
 cmdtest
-colorama
+#colorama
 command-not-found
 coreapi
 coreschema
