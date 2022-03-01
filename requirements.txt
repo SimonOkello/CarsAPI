@@ -10,9 +10,9 @@ certifi
 chardet
 cliapp
 Click
-cmdtest
+#cmdtest
 #colorama
-command-not-found
+#command-not-found
 coreapi
 coreschema
 cryptography
