@@ -5,7 +5,7 @@ autopep8==1.5.7
 backports.entry-points-selectable==1.1.1
 blinker==1.4
 #Brlapi==0.7.0
-caffeine==2.9.8
+caffeine
 certifi==2019.11.28
 chardet==3.0.4
 cliapp==1.20180812.1
