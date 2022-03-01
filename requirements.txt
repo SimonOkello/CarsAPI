@@ -50,7 +50,7 @@ importlib-metadata
 inflection
 itypes
 Jinja2
-keyring
+#keyring
 language-selector
 launchpadlib
 lazr.restfulclient
