@@ -4,7 +4,7 @@ asgiref
 autopep8
 backports.entry-points-selectable
 blinker
-Brlapi
+#Brlapi
 caffeine
 certifi
 chardet
